@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <img src="https://www.bolster.nl/media/images/7550_dbweb.jpg?1543576012"class="rounded-circle mx-auto d-block img-fluid" alt="margriet" width="50%" height="auto">
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Plantensoort</th>
+                        <th>Beschrijving</th>
+                        <th>Prijs</th>
+                   </tr>
+                   </thead>
+                   <tbody>
+                   <tr>
+                       <td>Roos</td>
+                       <td>Een stekelachtige rode bloem</td>
+                       <td>€2,50</td>
+                    </tr>
+                      <td>Tulp</td>
+                      <td>Een symbool van Nederland</td>
+                      <td>€1,50</td>
+                   <tr>
+                        <td>Cactus</td>
+                        <td>Een heel stekelige plant</td>
+                       <td>€5</td>
+                   </tr>
+                </tbody>
+               </table>
+
+
+
+        </div>
+    </div>
+
+</body>
+</html>
